@@ -40,10 +40,8 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/bc/1c/4e/bc1c4eb282f3f00e950ab1b9945bd41e.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/mandalfy/mandalfy/main/snake.svg" alt="Snake animation" />
 
 ###
