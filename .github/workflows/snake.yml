@@ -25,6 +25,6 @@ jobs:
           git config --local user.email "action@github.com"
           mkdir -p output
           mv dist/snake.svg output/snake.svg
-          git add output/snake.svg
+          git add main/snake.svg
           git commit -m "Generate snake.svg for contributions grid"
           git push origin main
